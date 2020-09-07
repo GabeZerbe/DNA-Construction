@@ -1,7 +1,4 @@
 # DNA-Construction
-DNA Game Repository, will contain the newest version of the game, along with older versions.
+Simple program to help facilitate the teaching of how bonds between atoms can create molecules of DNA to middle school grade students.
 
-To install, simply extract the folder to a desired location, leave the .exe file next to it's data folder or else it will not execute.
-To run the game from the desktop create a shortcut of the .exe and place it on the deskstop.
-
-If you have any issues please email me at gabe.zerbe@gmail.com and I'll make sure to log it.
+Requested by and delivered to my 8th grade science teacher who provided design documentation and an example of the card game he originally used to teach this subject.
